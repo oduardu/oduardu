@@ -8,4 +8,4 @@
 <a href="https://instagram.com/oduardu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="orafaelfragoso" height="30" width="30" /></a>
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/oduardu/oduardu/blob/output/github-contribution-grid-snake.svg)
